@@ -9,3 +9,7 @@ lib/bot_.json
 lib/sck.json
 lib/sck1.json
 lib/store.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
